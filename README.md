@@ -8,4 +8,6 @@ Rubens de Oliveira Moraes Filho - Universidade Federal de Viçosa - rubensolv@gm
 
 Julian Mariño - Universidade de São Paulo – marino.julian.r@gmail.com. 
 
+Claudio Toledo - Universidade de São Paulo - claudio@icmc.usp.br
+
 Levi Lelis - University of Alberta - levilelis@gmail.com.
